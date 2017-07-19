@@ -1,0 +1,26 @@
+{
+  "name": "rise",
+  "version": "1.0.0",
+  "description": "yet another a poor text editor",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kingwl/rise.git"
+  },
+  "keywords": [
+    "editor"
+  ],
+  "author": "kingwl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kingwl/rise/issues"
+  },
+  "homepage": "https://github.com/Kingwl/rise#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.29.0",
+    "webpack": "^3.3.0"
+  }
+}
