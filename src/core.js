@@ -1,5 +1,5 @@
-import EventHub from './eventhub'
-import * as plugins from './plugins'
+import EventHub from '@/eventhub'
+import * as plugins from '@/plugins'
 
 export default class Editor extends EventHub {
   constructor (el, options = {}) {

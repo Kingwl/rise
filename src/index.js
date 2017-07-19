@@ -1,4 +1,4 @@
-import Editor from './core'
+import Editor from '@/core'
 
 window.Editor = Editor
 
